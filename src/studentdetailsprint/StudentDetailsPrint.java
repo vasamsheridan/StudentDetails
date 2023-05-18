@@ -29,7 +29,7 @@ public class StudentDetailsPrint {
         {
             String n =in.next();
             int a = in.nextInt();
-            
+            Student s1 = new Student(n,a);
         }
     }
     
